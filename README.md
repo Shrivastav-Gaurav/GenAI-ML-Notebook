@@ -1,4 +1,4 @@
-# GenAI-ML-Notebook by gaurav Shrivastav
+# GenAI-ML-Notebook by Gaurav Shrivastav
 This repository showcases my learning journey through various hands-on exercises using Google Colab. It includes work in:
 
 - 🧠 Generative AI & Machine Learning
