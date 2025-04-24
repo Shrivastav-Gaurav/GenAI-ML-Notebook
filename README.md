@@ -12,7 +12,7 @@ Each notebook is self-contained and includes explanations, code, and results.
 
 | Topic | Notebook |
 |-------|----------|
-| Handwritten Digit Recognition | Handwritten_Digit_Recognition_CPU.ipynb|
+| Handwritten Digit Recognition | https://github.com/Shrivastav-Gaurav/GenAI-ML-Notebook/blob/main/Handwritten_Digit_Recognition_CPU.ipynb |
 | Decision Trees    | [decision_tree.ipynb](Week1/decision_tree.ipynb) |
 
 ---
