@@ -12,7 +12,7 @@ Each notebook is self-contained and includes explanations, code, and results.
 
 | Topic | Notebook |
 |-------|----------|
-| handwritten Digit Recognition | [linear_regression.ipynb](Week1/linear_regression.ipynb) |
+| Handwritten Digit Recognition | Handwritten_Digit_Recognition_CPU.ipynb|
 | Decision Trees    | [decision_tree.ipynb](Week1/decision_tree.ipynb) |
 
 ---
